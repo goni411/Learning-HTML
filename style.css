@@ -1,0 +1,34 @@
+p {
+  background-color: aqua;
+  font-size: 25px;
+}
+img {
+  width: 100px;
+  hight: 100px;
+  border-radius: 50%;
+}
+table {
+  margin-bottom: 10px;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  padding: 10px;
+}
+ul {
+  margin: 0 0 20px;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+li {
+  display: inline-block;
+}
+ul li a {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
