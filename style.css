@@ -1,5 +1,4 @@
 p {
-  background-color: aqua;
   font-size: 25px;
 }
 img {
@@ -31,4 +30,14 @@ ul li a {
   color: white;
   background-color: black;
   padding: 10px;
+}
+a {
+  border: 1px solid;
+  border-color: black;
+}
+div {
+  background-color: chocolate;
+  padding: 10px;
+  margin-bottom: 20px;
+  
 }
