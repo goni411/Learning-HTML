@@ -3,7 +3,6 @@ p {
 }
 img {
   width: 100px;
-  hight: 100px;
   border-radius: 50%;
 }
 table {
@@ -39,5 +38,23 @@ div {
   background-color: chocolate;
   padding: 10px;
   margin-bottom: 20px;
-  
+}
+.one {
+  background-color: aqua;
+  font-size: 20px;
+  padding: 5%;
+}
+.three {
+  background-color: aqua;
+  font-size: 40px;
+  padding: 5%;
+}
+#frist {
+  background-color: gray;
+  padding: 50px;
+}
+#third {
+  background-color: greenyellow;
+  font-size: 18px;
+  padding: 5%;
 }
