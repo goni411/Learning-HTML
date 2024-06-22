@@ -58,3 +58,21 @@ div {
   font-size: 18px;
   padding: 5%;
 }
+label,
+input,
+textarea {
+  display: block;
+  margin: 5px;
+  font-size: 20px;
+}
+.radioone {
+  display: inline-block;
+}
+.radioone input,
+label {
+  display: inline-block;
+}
+#checkboxone input,
+label {
+  display: inline-block;
+}
